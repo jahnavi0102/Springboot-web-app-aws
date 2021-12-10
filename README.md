@@ -28,7 +28,7 @@
         get  : http://13.58.35.238:8080/deleteEmployee/2
                  **Method: Update the Employee of particular id  
 
-#Steps to load on a server
+#Steps to load on a server(No templates use postman)
 
     #Create ec2 instance 
     #Save pem file and start connecting the server 
